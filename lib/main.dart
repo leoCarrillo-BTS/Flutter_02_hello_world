@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:hello_world/presentation/screens/counter_functions_screen.dart';
-import 'package:hello_world/presentation/screens/counter_screen.dart';
 
 void main() {
   runApp(const MyApp());
