@@ -2,14 +2,14 @@
 
 ## Course Topics
 
-- App which changes a numberic counter value.
+- App which changes a numeric counter value.
 
 App with the following features:
 - Basic UI scaffolding and structure
 - Floating buttons
 - Appbar buttons
 - Icons
-- Widget states
+- Widget states (Stateless and Stateful widgets)
 
 https://github.com/leoCarrillo-BTS/Flutter_02_hello_world/assets/60411044/0bd3930e-54df-4bd1-909f-b4a3a1c411c5
 
